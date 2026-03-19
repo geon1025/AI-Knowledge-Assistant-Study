@@ -1,2 +1,20 @@
-# AI-Knowledge-Assistant-Study
-This project explores how generative AI tools can support knowledge-based workflows such as research synthesis, documentation drafting, and structured idea generation. The goal is to evaluate practical productivity applications of AI assistants across professional contexts.
+# AI Knowledge Assistant Workflow Study
+
+This project explores how generative AI tools can support research, documentation, and productivity workflows.
+
+## Objective
+To evaluate how AI can function as a knowledge assistant in professional environments.
+
+## Tools Used
+- ChatGPT
+- Claude
+- Gemini
+
+## Focus Areas
+- Prompt engineering
+- Workflow testing
+- Productivity enhancement
+- AI output evaluation
+
+## Outcome
+This study demonstrates how structured prompts can improve AI performance in knowledge-based tasks.
