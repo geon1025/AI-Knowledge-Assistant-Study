@@ -5,6 +5,10 @@ This project explores how generative AI tools can support research, documentatio
 ## Objective
 To evaluate how AI can function as a knowledge assistant in professional environments.
 
+## Workflow Diagram
+
+![AI Workflow](ai-workflow-diagram.png)
+
 ## Tools Used
 - ChatGPT
 - Claude
